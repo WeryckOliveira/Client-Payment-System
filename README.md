@@ -33,7 +33,7 @@
 
 <h2>Links</h2>
 <ul>
-    <li>Repository: (https://github.com/WeryckOliveira/Website-with-delivery-system)</li>
+    <li>Repository: (https://github.com/WeryckOliveira/Client-Payment-System)</li>
 </ul>
 
 <br>
