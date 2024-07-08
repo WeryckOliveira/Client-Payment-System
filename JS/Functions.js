@@ -7,7 +7,7 @@ $(function(){
         var iDescrição = $(".dados input[type='text']").val();
         var iValor = $(".dados input[type='number']").val();
         var iData = $(".dados input[type='date']").val();
-ff
+
         $(table).after("<tr><td>" + iDescrição + "</td><td>R$" + iValor + "</td><td><p class='status'>Pendente</p></td><td class='data'>" + iData + "</td><td><input type='date'/><strong class='remove'>X</strong></td><input type='hidden' value='" + iData + "'/></tr>");
 
         $(".dados input").val("");
