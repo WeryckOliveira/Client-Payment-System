@@ -15,7 +15,7 @@
 
 - The app counts how many notes are pending, paid and overdue;
 
-- System of "search" for the note by its description, facilitating the management;</p>pp
+- System of "search" for the note by its description, facilitating the management;</p>p
 
 <br>
 <br>
