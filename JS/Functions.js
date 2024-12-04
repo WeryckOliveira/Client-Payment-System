@@ -1,7 +1,7 @@
 $(function(){
     var iAcao = $(".dados input[type='submit']");
     var table = $(".table table .first-tr");
-
+11
     $(iAcao).click(function(e){
         e.preventDefault();
         var iDescrição = $(".dados input[type='text']").val();
