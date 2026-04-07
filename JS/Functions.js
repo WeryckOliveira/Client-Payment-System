@@ -30,7 +30,7 @@ $("#btn-sim").click(function(){
     $(".container").click(function(){
         status();
     });
-ll
+l
     function status(){
         let tr = $(".table table tr").length;
         var pendente = 0;
